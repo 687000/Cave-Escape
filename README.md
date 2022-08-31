@@ -9,7 +9,7 @@
 * **Implementation**:  
   1. **Download** the file from this repo on GitHub  
   2. Click and run **host.bat** for Windows, **host.command** for Mac  
-  3. Open the file **start.html** to start the game locally  
+  3. Open localhost:8000 to start the game locally  
   
 * **Controls**:  
   
